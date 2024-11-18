@@ -10,7 +10,7 @@
     "quickSearch": 1,
     "filterable": 1
     }
-  ]
+  ],
   "lives": [
     {
         "name": "live",
@@ -19,7 +19,7 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-],
+]，
   "parses": [
     {
       "name": "Web聚合",
