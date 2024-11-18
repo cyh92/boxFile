@@ -1,14 +1,13 @@
 {
   "sites": [
     {
-      "key": "xxhome",
-      "name": "自用站点",
-      "type": 0,
-      "api": "http://rzys.xyz/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-    }
+      "key": "tiankongapi",
+      "name": "天空影视",
+      "type": 1,
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0
+    },
   ],
   "lives": [
     {
@@ -18,7 +17,7 @@
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
         "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
-],
+]，
   "parses": [
     {
       "name": "Web聚合",
