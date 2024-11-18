@@ -1,21 +1,11 @@
 {
   "sites": [
     {
-      "key": "tiankongapi",
-      "name": "天空影视",
-      "type": 1,
-      "api": "https://tkzy8.com/api.php/provide/vod/",
-      "playUrl": "https://jx.huishij.com/yun/?url=",
-      "searchable": 0,
-      "quickSearch": 0
-    },
-    {
-    "key": "索尼",
-    "name": "索尼资源",
+    "key": "tiankongapi",
+    "name": "天空影视",
     "type": 1,
-    "playerType": 2,
     "api": "https://tkzy8.com/api.php/provide/vod/",
-    "playUrl": "",
+    "playUrl": "https://jx.huishij.com/yun/?url=",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
