@@ -8,30 +8,22 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "categories": [
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧",
-        "泰剧",
-        "综艺"
-      ]
     }
   ],
   "lives": [
-   {
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://ghp.ci/https://raw.githubusercontent.com/cyh92/boxFile/refs/heads/main/live/gggg.nzk",
-		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-                    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	    }
-  ],
+    {
+        "name": "live",
+        "type": 0,
+        "url": "https://ghp.ci/https://raw.githubusercontent.com/cyh92/boxFile/refs/heads/main/live/gggg.nzk",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+        "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+],
   "parses": [
     {
       "name": "Web聚合",
       "type": 3,
-      "url": "https://xxx.xxx?jx="
+      "url": "https://im1907.top/?jx="
     }
   ],
   "flags": [
