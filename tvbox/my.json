@@ -9,16 +9,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-         {
-            "key": "SNzy",
-            "name": "♻️索尼资源",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         }
     ],
     "lives": [
