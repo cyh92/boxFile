@@ -4,7 +4,8 @@
       "key": "tiankongapi",
       "name": "天空影视",
       "type": 1,
-      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "api": "https://tkzy8.com/api.php/provide/vod/",
+      "playUrl": "https://jx.huishij.com/yun/?url=",
       "searchable": 0,
       "quickSearch": 0
     },
