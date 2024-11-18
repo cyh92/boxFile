@@ -2,7 +2,7 @@
   "sites": [
     {
     "key": "tiankongapi",
-    "name": "天空影视",
+    "name": "天空站点",
     "type": 1,
     "api": "https://tkzy8.com/api.php/provide/vod/?t=22",
     "playUrl": "",
