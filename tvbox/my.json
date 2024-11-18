@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "xxhome",
-      "name": "筱筱首页",
+      "name": "自用站点",
       "type": 0,
       "api": "http://rzys.xyz/",
       "searchable": 1,
