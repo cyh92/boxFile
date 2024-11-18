@@ -19,17 +19,13 @@
     }
   ],
   "lives": [
-    {
-      "group": "自定义",
-      "channels": [
-        {
-          "name": "直播源",
-          "urls": [
-            "https://ghp.ci/https://raw.githubusercontent.com/cyh92/boxFile/refs/heads/main/live/gggg.nzk"
-          ]
-        }
-      ]
-    }
+   {
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://ghp.ci/https://raw.githubusercontent.com/cyh92/boxFile/refs/heads/main/live/gggg.nzk",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }
   ],
   "parses": [
     {
