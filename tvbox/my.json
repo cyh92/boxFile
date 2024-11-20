@@ -26,7 +26,10 @@
         {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
         {"key":"csp_Anime1","name":"🌸Anime动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
         {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
-        {"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"}    
+        {"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+        {"key":"csp_xpath_zaixiandianying8","name":"在线电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://szyyds.cn/tv/jsxp/zaixiandianying8.json","jar":"https://szyyds.cn/tv/spider.jar"},
+        {"key":"csp_xpath_paopaoshipin","name":"泡泡视频(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://szyyds.cn/tv/jsxp/paopaoshipin.json","jar":"https://szyyds.cn/tv/spider.jar"},
+        {"key":"csp_xpath_tjyy","name":"奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://szyyds.cn/tv/jsxp/huigutongying.json","jar":"https://szyyds.cn/tv/spider.jar"}
     ],
     "lives": [
         {
