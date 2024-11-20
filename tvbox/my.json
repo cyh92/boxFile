@@ -11,6 +11,16 @@
             "filterable": 1
         },
         {"key":"shys","name":"骚火┃影视","type":3,"api":"csp_SaoHuo","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
+        {"key":"free","name":"Free┃影视","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"click":"document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();","jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
+        {"key":"qyys","name":"奇优┃影视","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
+        {"key":"rzys","name":"忍者┃影视","type":3,"api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://rzys.xyz/","jar":"http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"},
+        {"key":"Qxys","name":"七新┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"},
+        {"key":"ssys","name":"三三┃视频","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"changeable":1},
+        {"key":"ygcl","name":"影港┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.meowtv.cn/xp/meow.php?file=ygcl","jar":"http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"},
+        {"key":"lwcl","name":"六维┃磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.xb6v.com/"},
+        {"key":"dmbs","name":"巴士┃动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
+        {"key":"xfdm","name":"稀饭┃动漫","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"},
+        {"key":"blgq","name":"哔哩┃歌曲","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"changeable":0,"ext":"http://www.meowtv.cn/xp/meow.php?file=blgq"}
     ],
     "lives": [
         {
@@ -22,6 +32,7 @@
             "name": "Live",
             "type": 0,
             "url": "http://rihou.cc:567/gggg.nzk"
+            
         },
         {
             "name": "18+1",
