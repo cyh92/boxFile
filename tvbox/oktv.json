@@ -1,4 +1,5 @@
 {
+    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "sites": [
         {"key": "tiankongapi","name": "天空站点","type": 1,"api": "https://tkzy8.com/api.php/provide/vod/?t=22",
             "playUrl": "",
@@ -17,7 +18,7 @@
         {"key":"农民","name":"👩‍🌾农民","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
         {"key":"比特","name":"✌️比特","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
         {"key":"csp_AppRZ","name":"🕵忍者","type":3,"playerType":"2","api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
-        {"key":"csp_SaoHuo","name":"🔥骚火","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+        {"key":"csp_SaoHuo","name":"🔥骚火","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"}，
         {"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
         {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
         {"key":"csp_Anime1","name":"🌸Anime动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
