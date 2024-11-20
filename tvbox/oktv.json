@@ -47,6 +47,12 @@
             "name": "自用",
             "type": 0,
             "url": "https://ghp.ci/https://raw.githubusercontent.com/cyh92/boxFile/refs/heads/main/live/gggg.nzk"
+        },
+        {
+            "name": "Live",
+            "type": 0,
+            "url": "http://rihou.cc:567/gggg.nzk"
+            
         }
     ],
     "parses": [
