@@ -1,5 +1,4 @@
 {
-    "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "sites": [
         {"key": "tiankongapi","name": "天空站点","type": 1,"api": "https://tkzy8.com/api.php/provide/vod/?t=22",
             "playUrl": "",
