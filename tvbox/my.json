@@ -16,8 +16,17 @@
         {"key":"rzys","name":"忍者┃影视","type":3,"api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://rzys.xyz/","jar":"http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"},
         {"key":"ygcl","name":"影港┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.meowtv.cn/xp/meow.php?file=ygcl","jar":"http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"},
         {"key":"csp_Jpys","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
-        {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"}
-    
+        {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+        {"key":"csp_ReBo","name":"☀️热播","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+        {"key":"农民","name":"👩‍🌾农民","type":3,"api":"csp_Nongm","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+        {"key":"比特","name":"✌️比特","type":3,"api":"csp_Bttwo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+        {"key":"csp_AppRZ","name":"🕵忍者","type":3,"playerType":"2","api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+        {"key":"csp_SaoHuo","name":"🔥骚火","type":3,"api":"csp_SaoHuo","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+        {"key":"csp_Qiyou","name":"🦌奇优","type":3,"api":"csp_Qiyou","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+        {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+        {"key":"csp_Anime1","name":"🌸Anime动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+        {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+        {"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"}    
     ],
     "lives": [
         {
