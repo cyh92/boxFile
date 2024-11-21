@@ -1,7 +1,17 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "sites": [
-         {
+    "sites": [        
+        {
+            "key": "dbtj",
+            "name": "豆瓣排行",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "jar": "http://m1839732.cf.caoni.ru/1/meow.php"
+        },
+        {
             "key": "tiankongapi",
             "name": "天空站点",
             "type": 1,
@@ -263,16 +273,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.meowtv.cn/xp/meow.php?file=qxys",
-            "jar": "http://m1839732.cf.caoni.ru/1/meow.php"
-        },
-        {
-            "key": "dbtj",
-            "name": "豆瓣排行",
-            "type": 3,
-            "api": "csp_DouDou",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
             "jar": "http://m1839732.cf.caoni.ru/1/meow.php"
         },
         {
