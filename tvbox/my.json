@@ -988,7 +988,7 @@
         {
             "key": "lb",
             "name": "乐播",
-            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
             "jiexiUrl": "",
             "group": "18+",
             "isActive": true,
