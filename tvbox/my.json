@@ -951,7 +951,7 @@
         {
             "key": "lb",
             "name": "乐播",
-            "api": "https://lbapi9.com/api.php/provide/vod/"，
+            "api": "https://lbapi9.com/api.php/provide/vod/",
             "type": 1,
             "playUrl": "",
             "searchable": 1,
