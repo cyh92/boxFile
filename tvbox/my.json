@@ -1,6 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "sites": [        
+    "sites": [
         {
             "key": "dbtj",
             "name": "豆瓣排行",
@@ -15,7 +15,7 @@
             "key": "tiankongapi",
             "name": "天空站点",
             "type": 1,
-            "api": "https://tkzy8.com/api.php/provide/vod/?t=22",
+            "api": "https://api.tiankongapi.com/api.php/provide/vod/at/json/from/tkm3u8?t=22",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
@@ -802,8 +802,203 @@
             "filterable": 1,
             "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u",
             "jar": "http://cdn.qiaoji8.com/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+        },
+        {
+            "key": "量子资源",
+            "name": "量子资源",
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "download": "",
+            "jiexiUrl": "",
+            "group": "默认",
+            "status": true,
+            "isActive": true,
+            "type": 1,
+            "id": 1,
+            "search": 1
+        },
+        {
+            "key": "影图影视",
+            "name": "影图影视",
+            "api": "https://cj.vodimg.top/api.php/provide/vod/",
+            "download": "",
+            "jiexiUrl": "",
+            "group": "默认",
+            "status": true,
+            "isActive": true,
+            "type": 1,
+            "id": 8,
+            "search": 1
+        },
+        {
+            "key": "ikun资源",
+            "name": "ikun资源",
+            "api": "https://ikunzyapi.com/api.php/provide/vod/",
+            "download": "",
+            "jiexiUrl": "",
+            "group": "默认",
+            "status": true,
+            "isActive": true,
+            "type": 1,
+            "id": 11,
+            "search": 1
+        },
+        {
+            "key": "易看资源",
+            "name": "易看资源",
+            "api": "https://api.yikanapi.com/api.php/provide/vod/",
+            "download": "",
+            "jiexiUrl": "",
+            "group": "默认",
+            "status": true,
+            "isActive": true,
+            "type": 1,
+            "id": 15,
+            "search": 1
+        },
+        {
+            "key": "红牛资源",
+            "name": "红牛资源",
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+            "download": "",
+            "jiexiUrl": "",
+            "group": "默认",
+            "status": true,
+            "isActive": true,
+            "type": 1,
+            "id": 22,
+            "search": 1
+        },
+        {
+            "key": "速播",
+            "name": "速播",
+            "api": "https://subocaiji.com/api.php/provide/vod/",
+            "download": "",
+            "jiexiUrl": "",
+            "group": "默认",
+            "status": true,
+            "isActive": true,
+            "type": 1,
+            "id": 26,
+            "search": 1
+        },
+        {
+            "key": "apibdzy",
+            "name": "百度云资源",
+            "api": "https://api.apibdzy.com/api.php/provide/vod/",
+            "jiexiUrl": "",
+            "group": "影视",
+            "isActive": true,
+            "status": true,
+            "reverseOrder": false,
+            "id": 250,
+            "search": 2,
+            "type": 0
+        },
+        {
+            "key": "xinlangapi",
+            "name": "新浪资源",
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+            "jiexiUrl": "",
+            "group": "影视",
+            "isActive": true,
+            "status": true,
+            "reverseOrder": false,
+            "id": 255,
+            "search": 2,
+            "type": 0
+        },
+        {
+            "key": "yparse",
+            "name": "步步高资源",
+            "api": "https://api.yparse.com/api/json",
+            "jiexiUrl": "",
+            "group": "影视",
+            "isActive": true,
+            "status": true,
+            "reverseOrder": false,
+            "id": 259,
+            "search": 2,
+            "type": 0
+        },
+        {
+            "key": "ckzy",
+            "name": "CK资源",
+            "api": "https://ckzy.me/api.php/provide/vod/",
+            "jiexiUrl": "",
+            "group": "影视",
+            "isActive": true,
+            "status": true,
+            "reverseOrder": false,
+            "id": 260,
+            "search": 2,
+            "type": 0
+        },
+        {
+            "key": "guangsuapi",
+            "name": "光速资源",
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+            "jiexiUrl": "",
+            "group": "影视",
+            "isActive": true,
+            "status": true,
+            "reverseOrder": false,
+            "id": 262,
+            "search": 2,
+            "type": 0
+        },
+        {
+            "key": "jyzyapi",
+            "name": "金鹰资源",
+            "api": "https://jyzyapi.com/provide/vod/",
+            "jiexiUrl": "",
+            "group": "影视",
+            "isActive": true,
+            "status": true,
+            "reverseOrder": false,
+            "id": 263,
+            "search": 2,
+            "type": 0
+        },
+        {
+            "key": "apilyzy",
+            "name": "老鸭",
+            "api": "https://api.apilyzy.com/api.php/provide/vod/",
+            "jiexiUrl": "",
+            "group": "18+",
+            "isActive": true,
+            "status": true,
+            "reverseOrder": false,
+            "id": 273,
+            "search": 2,
+            "type": 0
+        },
+        {
+            "key": "apittzy",
+            "name": "探探资源",
+            "api": "https://apittzy.com/api.php/provide/vod/",
+            "jiexiUrl": "",
+            "group": "18+",
+            "isActive": true,
+            "status": true,
+            "reverseOrder": false,
+            "id": 275,
+            "search": 2,
+            "type": 0
+        },
+        {
+            "key": "lb",
+            "name": "乐播",
+            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "jiexiUrl": "",
+            "group": "18+",
+            "isActive": true,
+            "status": true,
+            "reverseOrder": false,
+            "id": 282,
+            "search": 2,
+            "type": 0
         }
-       ],
+    ],
     "lives": [
         {
             "name": "自用",
@@ -814,22 +1009,6 @@
             "name": "Live",
             "type": 0,
             "url": "http://rihou.cc:567/gggg.nzk"
-            
-        },
-        {
-            "name": "18+1",
-            "type": 0,
-            "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt"
-        },
-        {
-            "name": "18+2",
-            "type": 0,
-            "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt"
-        },
-        {
-            "name": "18+3",
-            "type": 0,
-            "url": "https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt"
         }
     ],
     "parses": [
