@@ -141,10 +141,10 @@
             "name": "🅱️戏曲",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json",
             "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
@@ -225,7 +225,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "http://js.xn--z7x900a.com/json/ivdy.json",
-            "searchable": 0,
+            "searchable": 1,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
         },
         {
@@ -284,7 +284,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "order_num": 0,
-            "changeable": 0,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar"
         },
         {
@@ -301,7 +300,6 @@
             "name": "🐶汪汪┃1080P",
             "type": 3,
             "playerType": 1,
-            "changeable": 0,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn/",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar"
@@ -496,7 +494,6 @@
             "api": "csp_Bili",
             "searchable": 1,
             "quickSearch": 0,
-            "changeable": 0,
             "ext": "http://www.meowtv.cn/xp/meow.php?file=blgq",
             "jar": "http://m1839732.cf.caoni.ru/1/meow.php;md5;A413D6A6A5378A02256F703CB6C530AB"
         },
@@ -611,7 +608,6 @@
             "api": "csp_SixV",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
             "ext": "https://www.xb6v.com/",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
         },
@@ -935,7 +931,6 @@
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
             "ext": {
                 "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto",
@@ -1087,7 +1082,6 @@
             "name": "🌹米QK┃4K4K",
             "type": 3,
             "api": "csp_Duopan",
-            "changeable": 0,
             "filterable": 1,
             "ext": {
                 "site_urls": [
@@ -1102,7 +1096,6 @@
             "name": "🌹米UC┃4K4K",
             "type": 3,
             "api": "csp_Duopan",
-            "changeable": 0,
             "ext": "https://wok.nxog.eu.org",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
@@ -1146,7 +1139,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "changeable": 0,
             "ext": "https://gitee.com/smallmi1007/mimi/raw/master/xiongmao.js"
         },
         {
@@ -1159,7 +1151,6 @@
             "filterable": 1,
             "playerType": 2,
             "order_num": 0,
-            "changeable": 0,
             "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
         },
         {
@@ -1171,14 +1162,12 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "changeable": 0,
             "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
         },
         {
             "key": "huohuo",
             "name": "💥火火┃1080P",
             "type": 3,
-            "changeable": 0,
             "api": "csp_SaoHuo",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
@@ -1225,7 +1214,6 @@
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
             "ext": {
                 "Cloud-drive": "TVBox/Cloud-drive.txt",
                 "from": "4k|auto",
@@ -1254,7 +1242,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "changeable": 0,
             "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/mgtv.js"
         },
         {
@@ -1391,7 +1378,6 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1.433
@@ -1452,8 +1438,8 @@
             "key": "去看吧",
             "name": "🫣看吧┃动漫┃蓝光",
             "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/去看吧.js"
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/cyh92/TVBoxSource/refs/heads/main/JS/drpy.min.js",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/cyh92/TVBoxSource/refs/heads/main/JS/去看吧.js"
         },
         {
             "key": "南瓜弹幕",
