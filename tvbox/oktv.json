@@ -12,6 +12,20 @@
             "jar": "http://m1839732.cf.caoni.ru/1/meow.php"
         },
         {
+            "key": "配置中心",
+            "name": "👨‍🍳‍配置┃中心",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.43
+            }
+        },
+        {
             "key": "tiankongapi",
             "name": "天空站点",
             "type": 1,
@@ -144,7 +158,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json",
+            "ext": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json",
             "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
@@ -1468,8 +1482,8 @@
             "key": "去看吧",
             "name": "🫣看吧┃动漫┃蓝光",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/cyh92/TVBoxSource/refs/heads/main/JS/drpy.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/cyh92/TVBoxSource/refs/heads/main/JS/去看吧.js"
+            "api": "https://gh-proxy.com/raw.githubusercontent.com/cyh92/TVBoxSource/refs/heads/main/JS/drpy.min.js",
+            "ext": "https://gh-proxy.com/raw.githubusercontent.com/cyh92/TVBoxSource/refs/heads/main/JS/去看吧.js"
         },
         {
             "key": "南瓜弹幕",
@@ -1664,6 +1678,219 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_AliShare",
+            "name": "🦋AList",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_AliShare",
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+                "share": "http://127.0.0.1:9978/file/tvbox/阿里集合.json"
+            },
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
+        },
+        {
+            "key": "盘Se",
+            "name": "🙀盘Se┃搜索",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "易搜",
+            "name": "😹易搜┃搜索",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "csp_QuPanSou",
+            "name": "🤓趣盘搜┃搜索",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_QuPanSou",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "csp_Qkpanso",
+            "name": "🐚夸克盘搜┃搜索",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_Qkpanso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "米搜",
+            "name": "🌖米搜┃搜索",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_Qkpanso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "danmu": true,
+                "site": "https://www.misou.fun"
+            },
+            "timeout": 15
+        },
+        {
+            "key": "夸搜",
+            "name": "🚢夸搜┃搜索",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_Qkso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "云盘4K",
+            "name": "🤖云盘4K┃搜索",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_Yunpan4k",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "影搜",
+            "name": "🌸影搜┃搜索",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_Yingso",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "push_agent",
+            "name": "🛴手机┃推送",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_Push",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt",
+                "danmu": true
+            },
+            "timeout": 5
+        },
+        {
+            "key": "我的阿里",
+            "name": "🐱我的┃阿里",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_MyAli",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+            },
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
+        },
+        {
+            "key": "我的夸克",
+            "name": "🗽我的┃夸克",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_MyQuark",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt"
+            },
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
+        },
+        {
+            "key": "我的UC",
+            "name": "😼我的┃UC",
+            "type": 3,
+            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "api": "csp_MyUc",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "uc_cookie": "http://127.0.0.1:9978/file/tvbox/uc.txt"
+            },
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
         }
     ],
     "lives": [
@@ -1675,7 +1902,7 @@
         {
             "name": "直播",
             "type": 0,
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/cyh92/boxFile/refs/heads/main/live/gggg.nzk"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/cyh92/boxFile/refs/heads/main/live/gggg.nzk"
         },
         {
             "name": "Live",
@@ -1691,6 +1918,16 @@
             "name": "V6TV",
             "type": 0,
             "url": "https://gitlab.com/tvtg/v6tv/-/raw/main/V6TV.txt"
+        },
+        {
+            "name": "ATV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"
+        },
+        {
+            "name": "5+",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"
         }
     ],
     "parses": [
@@ -1698,6 +1935,26 @@
             "name": "Web聚合",
             "type": 0,
             "url": "https://www.ckplayer.vip/jiexi/?url="
+        },
+        {
+            "name": "8090g",
+            "type": 0,
+            "url": "https://www.8090g.cn/jiexi/?url="
+        },
+        {
+            "name": "-ik9-",
+            "type": 0,
+            "url": "https://yparse.ik9.cc/index.php?url="
+        },
+        {
+            "name": "-冰豆-",
+            "type": 0,
+            "url": "https://bd.jx.cn/?url="
+        },
+        {
+            "name": "-云析-",
+            "type": 0,
+            "url": "https://yparse.ik9.cc/index.php?url="
         }
     ],
     "flags": [
