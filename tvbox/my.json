@@ -1,36 +1,6 @@
 {
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-    "sites": [
-        {
-            "key": "dbtj",
-            "name": "豆瓣排行",
-            "type": 3,
-            "api": "csp_DouDou",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
-        },
-        {
-            "key": "apilyzy",
-            "name": "老鸭",
-            "api": "https://api.apilyzy.com/api.php/provide/vod/",
-            "type": 1,
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "apittzy",
-            "name": "探探资源",
-            "api": "https://apittzy.com/api.php/provide/vod/",
-            "type": 1,
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+    "sites": [        
         {
             "key": "lb",
             "name": "乐播",
@@ -43,11 +13,6 @@
         }
     ],
     "lives": [
-        {
-            "name": "自用",
-            "type": 0,
-            "url": "http://cyh92.cn/list.txt"
-        },
         {
             "name": "18+1",
             "type": 0,
