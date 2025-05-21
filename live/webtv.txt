@@ -4,6 +4,7 @@
 北京卫视,video://https://www.brtn.cn/btv/btvsy_index
 东南卫视,video://http://www.setv.fjtv.net/live/
 东方卫视,video://https://live.kankanews.com/huikan/
+上海新闻综合,video://https://live.kankanews.com/huikan?id=2
 甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml
 广西卫视,video://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
@@ -59,3 +60,11 @@
 周口综合,video://https://static.hntv.tv/total/television/?id=226
 驻马店综合,video://https://static.hntv.tv/total/television/?id=227
 济源综合,video://https://static.hntv.tv/total/television/?id=228
+安徽,#genre#
+安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
+经济生活,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
+综艺体育,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
+影视频道,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
+公共频道,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
+农业科教,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=5
+安徽国际,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
