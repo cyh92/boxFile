@@ -9,13 +9,13 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
             "key": "配置中心",
-            "name": "👨‍🍳‍配置┃中心",
+            "name": "👨\u200d🍳\u200d配置┃中心",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
@@ -26,90 +26,6 @@
             }
         },
         {
-            "key": "tiankongapi",
-            "name": "天空站点",
-            "type": 1,
-            "api": "https://api.tiankongapi.com/api.php/provide/vod/at/json/from/tkm3u8?t=22",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Jpys",
-            "name": "🥇金牌",
-            "type": 3,
-            "api": "csp_Jpys",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
-        },
-        {
-            "key": "csp_TianTian",
-            "name": "🦉天天",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
-        },
-        {
-            "key": "csp_ReBo",
-            "name": "☀️热播",
-            "type": 3,
-            "api": "csp_ReBo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
-        },
-        {
-            "key": "农民",
-            "name": "👩‍🌾农民",
-            "type": 3,
-            "api": "csp_Nongm",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
-        },
-        {
-            "key": "比特",
-            "name": "✌️比特",
-            "type": 3,
-            "api": "csp_Bttwo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
-        },
-        {
-            "key": "csp_AppRZ",
-            "name": "🕵忍者",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_AppRZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://rzys.xyz/",
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
-        },
-        {
-            "key": "csp_SaoHuo",
-            "name": "🔥骚火",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
-        },
-        {
             "key": "csp_Qiyou",
             "name": "🦌奇优",
             "type": 3,
@@ -117,7 +33,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
             "key": "csp_SP360",
@@ -128,7 +44,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
             "key": "csp_Anime1",
@@ -138,7 +54,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
             "key": "csp_Dm84",
@@ -148,18 +64,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
-        },
-        {
-            "key": "戏曲",
-            "name": "🅱️戏曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json",
-            "jar": "http://cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
             "key": "csp_xpath_zaixiandianying8",
@@ -170,18 +75,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://szyyds.cn/tv/jsxp/zaixiandianying8.json",
-            "jar": "http://cyh92.cn/jar/spider.jar"
-        },
-        {
-            "key": "csp_xpath_paopaoshipin",
-            "name": "泡泡视频(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://szyyds.cn/tv/jsxp/paopaoshipin.json",
-            "jar": "http://cyh92.cn/jar/spider.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/spider.jar"
         },
         {
             "key": "csp_xpath_tjyy",
@@ -192,7 +86,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://szyyds.cn/tv/jsxp/huigutongying.json",
-            "jar": "http://cyh92.cn/jar/spider.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/spider.jar"
         },
         {
             "key": "csp_SuBaiBai",
@@ -200,21 +94,7 @@
             "type": 3,
             "api": "csp_SuBaiBai",
             "ext": "http://subaibai.com",
-            "jar": "http://cyh92.cn/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
-        },
-        {
-            "key": "csp_Kanke",
-            "name": "🛳️┃看客┃影视",
-            "type": 3,
-            "api": "csp_Kanke",
-            "jar": "http://cyh92.cn/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
-        },
-        {
-            "key": "csp_Dadag",
-            "name": "🐢️┃达龟┃影视",
-            "type": 3,
-            "api": "csp_Dadag",
-            "jar": "http://cyh92.cn/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
         },
         {
             "key": "csp_Fantuan",
@@ -223,39 +103,14 @@
             "api": "csp_Fantuan",
             "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": "https://www.fantuan.vip",
-            "jar": "http://cyh92.cn/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
-        },
-        {
-            "key": "csp_Quanwk",
-            "name": "👀┃全看┃影视",
-            "type": 3,
-            "api": "csp_Quanwk",
-            "ext": "https://www.91qkw.com",
-            "jar": "http://cyh92.cn/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
-        },
-        {
-            "key": "Ivdy",
-            "name": "💖┃Ivdy┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "http://js.xn--z7x900a.com/json/ivdy.json",
-            "searchable": 1,
-            "jar": "http://cyh92.cn/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
-        },
-        {
-            "key": "csp_SaoHuo",
-            "name": "🔥┃火火┃影视",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "playerType": 2,
-            "jar": "http://cyh92.cn/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
         },
         {
             "key": "比特",
             "name": "✌️️┃比特┃影视",
             "type": 3,
             "api": "csp_Bttwo",
-            "jar": "http://cyh92.cn/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
         },
         {
             "key": "荐片",
@@ -264,30 +119,7 @@
             "type": 3,
             "playerType": "2",
             "ext": "http://api2.rinhome.com",
-            "jar": "http://cyh92.cn/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
-        },
-        {
-            "key": "厂长",
-            "name": "🏭┃厂长┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.czzyvideo.com",
-            "jar": "http://cyh92.cn/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
-        },
-        {
-            "key": "Qxys",
-            "name": "✨七新┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.meowtv.cn/xp/meow.php?file=qxys",
-            "jar": "http://m1839732.cf.caoni.ru/1/meow.php"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
         },
         {
             "key": "瓜子",
@@ -298,7 +130,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "order_num": 0,
-            "jar": "http://cyh92.cn/jar/1026.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/1026.jar"
         },
         {
             "key": "荐片",
@@ -307,7 +139,7 @@
             "type": 3,
             "playerType": "1",
             "ext": "http://api2.rinhome.com",
-            "jar": "http://cyh92.cn/jar/1026.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/1026.jar"
         },
         {
             "key": "csp_Wwys",
@@ -316,7 +148,7 @@
             "playerType": 1,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn/",
-            "jar": "http://cyh92.cn/jar/1026.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/1026.jar"
         },
         {
             "key": "csp_JPYY",
@@ -328,7 +160,7 @@
             "playerType": 0,
             "filterable": 1,
             "ext": "",
-            "jar": "http://cyh92.cn/jar/1026.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/1026.jar"
         },
         {
             "key": "天天",
@@ -337,7 +169,7 @@
             "api": "csp_TTian",
             "playerType": 2,
             "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
-            "jar": "http://cyh92.cn/jar/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
         },
         {
             "key": "mmys",
@@ -363,27 +195,6 @@
             "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
         },
         {
-            "key": "shys",
-            "name": "骚火┃影视",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-        },
-        {
-            "key": "free",
-            "name": "Free┃影视",
-            "type": 3,
-            "api": "csp_FreeOK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-        },
-        {
             "key": "atys",
             "name": "奥特┃影视",
             "type": 3,
@@ -394,60 +205,6 @@
             "timeout": 15,
             "ext": "https://auete.pro/",
             "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
-        },
-        {
-            "key": "qyys",
-            "name": "奇优┃影视",
-            "type": 3,
-            "api": "csp_Qiyou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": 1,
-            "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-        },
-        {
-            "key": "rzys",
-            "name": "忍者┃影视",
-            "type": 3,
-            "api": "csp_AppRZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "ext": "http://rzys.xyz/",
-            "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-        },
-        {
-            "key": "nmys",
-            "name": "农民┃影视",
-            "type": 3,
-            "api": "csp_Nongm",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-        },
-        {
-            "key": "Kkys",
-            "name": "快看┃影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-        },
-        {
-            "key": "sbys",
-            "name": "素白┃影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.meowtv.cn/xp/meow.php?file=sbys",
-            "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
         },
         {
             "key": "lzzy",
@@ -470,172 +227,6 @@
             "playurl": "json:http://110.42.3.99:880/rmm.php/?url="
         },
         {
-            "key": "ssys",
-            "name": "三三┃视频",
-            "type": 3,
-            "api": "csp_SP33",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://m1839732.cf.caoni.ru/1/meow.php;md5;A413D6A6A5378A02256F703CB6C530AB"
-        },
-        {
-            "key": "ygcl",
-            "name": "影港┃磁力",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.meowtv.cn/xp/meow.php?file=ygcl",
-            "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-        },
-        {
-            "key": "lwcl",
-            "name": "六维┃磁力",
-            "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://www.xb6v.com/",
-            "jar": "http://m1839732.cf.caoni.ru/1/meow.php;md5;A413D6A6A5378A02256F703CB6C530AB"
-        },
-        {
-            "key": "blgq",
-            "name": "哔哩┃歌曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "ext": "http://www.meowtv.cn/xp/meow.php?file=blgq",
-            "jar": "http://m1839732.cf.caoni.ru/1/meow.php;md5;A413D6A6A5378A02256F703CB6C530AB"
-        },
-        {
-            "key": "Lib",
-            "name": "🌟立播┃秒播",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            },
-            "jar": "http://cyh92.cn/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-        },
-        {
-            "key": "文采",
-            "name": "💮文采┃秒播",
-            "type": 3,
-            "api": "csp_Jpys",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cyh92.cn/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-        },
-        {
-            "key": "苹果",
-            "name": "🍎苹果┃不卡",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cyh92.cn/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-        },
-        {
-            "key": "萌米",
-            "name": "👀萌米┃多线",
-            "type": 3,
-            "api": "csp_AppTT",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-            "jar": "http://cyh92.cn/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-        },
-        {
-            "key": "欢视",
-            "name": "👓欢视┃多线",
-            "type": 3,
-            "api": "csp_AppTT",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AO7TcBkd8IPB+BwH4Qma+opv",
-            "jar": "http://cyh92.cn/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-        },
-        {
-            "key": "热播",
-            "name": "📺热播┃多线",
-            "type": 3,
-            "api": "csp_AppTT",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-            "jar": "http://cyh92.cn/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-        },
-        {
-            "key": "低端",
-            "name": "⏮️低端┃外剧",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cyh92.cn/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-        },
-        {
-            "key": "比特",
-            "name": "🍄比特┃秒播",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cyh92.cn/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-        },
-        {
-            "key": "Auete",
-            "name": "🏝奥特┃无广",
-            "type": 3,
-            "api": "csp_Auete",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://auete.pro/",
-            "jar": "http://cyh92.cn/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-        },
-        {
-            "key": "新6V",
-            "name": "🧲新6V┃磁力",
-            "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "https://www.xb6v.com/",
-            "jar": "http://cyh92.cn/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-        },
-        {
-            "key": "Ysj",
-            "name": "🎀异界┃动漫",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cyh92.cn/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-        },
-        {
             "key": "南瓜",
             "name": "南瓜┃App",
             "type": 3,
@@ -645,7 +236,7 @@
             "playerType": 2,
             "filterable": 1,
             "ext": "",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "天天",
@@ -654,7 +245,7 @@
             "api": "csp_TTian",
             "playerType": 1,
             "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "热播",
@@ -663,7 +254,7 @@
             "api": "csp_TTian",
             "playerType": 1,
             "ext": "caHR0cDovL3YucmJvdHYuY24=",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "追剧",
@@ -672,7 +263,7 @@
             "api": "csp_TTian",
             "playerType": 1,
             "ext": "daHR0cDovL2FwaS5remp0di5jb20=",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "雨夜",
@@ -681,7 +272,7 @@
             "api": "csp_Muou",
             "playerType": 1,
             "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcC8=",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "雨滴",
@@ -690,7 +281,7 @@
             "api": "csp_Xdai",
             "playerType": 1,
             "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "优质",
@@ -699,7 +290,7 @@
             "api": "csp_Xdai",
             "playerType": 1,
             "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "木叶",
@@ -708,7 +299,7 @@
             "api": "csp_Frong",
             "playerType": 2,
             "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "繁荣",
@@ -717,7 +308,7 @@
             "api": "csp_Frong",
             "playerType": 1,
             "ext": "FMy4wLjJ8aHR0cHM6Ly92aXAuMTIzcGFuLmNuLzE4MjY0MTAxNjkvZG9uZ3RhaS8xLnR4dHw0MmY3YTIwOXwyNXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "雷电",
@@ -726,7 +317,7 @@
             "api": "csp_Slys",
             "playerType": 1,
             "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg=",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "柠檬",
@@ -735,7 +326,7 @@
             "api": "csp_Nmvod",
             "playerType": 2,
             "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "AI4",
@@ -747,14 +338,14 @@
             "filterable": 0,
             "playerType": 2,
             "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "Dygang",
             "name": "电影港[边下边播]",
             "type": 3,
             "api": "csp_Dygang",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "蚂蚁",
@@ -766,7 +357,7 @@
             "filterable": 0,
             "playerType": 1,
             "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "Lib",
@@ -777,7 +368,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM=",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "快看",
@@ -788,7 +379,7 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "360_spider",
@@ -800,7 +391,7 @@
             "searchable": 1,
             "playerType": 2,
             "ext": "",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "NoSearch_csp_BBB",
@@ -811,7 +402,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u",
-            "jar": "http://cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "量子资源",
@@ -939,19 +530,22 @@
             "filterable": 1
         },
         {
-            "key": "玩偶",
-            "name": "🌎玩偶┃4K弹幕",
-            "type": 3,
-            "api": "csp_WoGG",
+            "key": "snzy",
+            "name": "索尼┃资源",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": {
-                "Cloud-drive": "TVBox/Cloud-drive.txt",
-                "from": "4k|auto",
-                "siteUrl": "https://www.wogg.net/",
-                "danMu": "弹"
-            },
-            "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php"
+            "filterable": 1
+        },
+        {
+            "key": "bfzy",
+            "name": "暴风┃资源",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "xsys",
@@ -972,24 +566,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.meowtv.cn/js/meow.php?file=xcys"
-        },
-        {
-            "key": "snzy",
-            "name": "索尼┃资源",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "bfzy",
-            "name": "暴风┃资源",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "qysp",
@@ -1103,7 +679,7 @@
                     "https://woj.nxog.eu.org"
                 ]
             },
-            "jar": "http://cyh92.cn/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
             "key": "csp_xiaomi",
@@ -1111,7 +687,7 @@
             "type": 3,
             "api": "csp_Duopan",
             "ext": "https://wok.nxog.eu.org",
-            "jar": "http://cyh92.cn/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
             "key": "🌟客星",
@@ -1142,7 +718,7 @@
             "filterable": 1,
             "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": "https://fantuan.vip/",
-            "jar": "http://cyh92.cn/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
             "key": "xiongmao2",
@@ -1183,73 +759,7 @@
             "name": "💥火火┃1080P",
             "type": 3,
             "api": "csp_SaoHuo",
-            "jar": "http://cyh92.cn/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
-        },
-        {
-            "key": "Wexbiliys",
-            "name": "💓‍哔哩┃影视💓‍",
-            "type": 3,
-            "api": "csp_Wexbiliys",
-            "searchable": 1,
-            "jar": "http://cyh92.cn/jar/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
-            "changeable": 1
-        },
-        {
-            "key": "Wexzhizhen",
-            "name": "💓至臻┃4K💓",
-            "type": 3,
-            "api": "csp_Wexzhizhen",
-            "searchable": 1,
-            "jar": "http://cyh92.cn/jar/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
-            "changeable": 1
-        },
-        {
-            "key": "賤賤",
-            "name": "📓賤片┃p2p📓",
-            "type": 3,
-            "api": "csp_WexJianpian",
-            "searchable": 1,
-            "jar": "http://cyh92.cn/jar/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
-            "changeable": 1
-        },
-        {
-            "key": "Wexduanju001",
-            "name": "🍉短剧┃极品🍉",
-            "type": 3,
-            "api": "csp_Wexduanju001",
-            "searchable": 1,
-            "jar": "http://cyh92.cn/jar/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
-            "changeable": 1
-        },
-        {
-            "key": "夜猫短剧",
-            "name": "🍡夜猫短剧",
-            "type": 3,
-            "api": "csp_YMduanju",
-            "jar": "http://cyh92.cn/jar/ymz_0509.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "星芽短剧",
-            "name": "🍡星芽短剧",
-            "type": 3,
-            "api": "csp_AppXY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://cyh92.cn/jar/spider0529.jar"
-        },
-        {
-            "key": "星芽短剧1",
-            "name": "🏅星芽",
-            "type": 3,
-            "api": "csp_AppXY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://cyh92.cn/jar/xc_0805.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
             "key": "玩偶",
@@ -1469,21 +979,11 @@
             "filterable": 1
         },
         {
-            "key": "星芽短剧",
-            "name": "🌟星芽┃短剧┃热推",
-            "type": 3,
-            "api": "csp_AppXY",
-            "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
             "key": "去看吧",
             "name": "🫣看吧┃动漫┃蓝光",
             "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/cyh92/TVBoxSource/refs/heads/main/JS/drpy.min.js",
-            "ext": "https://gh-proxy.com/raw.githubusercontent.com/cyh92/TVBoxSource/refs/heads/main/JS/去看吧.js"
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cyh92/TVBoxSource/refs/heads/main/JS/drpy.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/cyh92/TVBoxSource/refs/heads/main/JS/去看吧.js"
         },
         {
             "key": "南瓜弹幕",
@@ -1683,7 +1183,7 @@
             "key": "csp_AliShare",
             "name": "🦋AList",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_AliShare",
             "searchable": 1,
             "changeable": 0,
@@ -1702,7 +1202,7 @@
             "key": "盘Se",
             "name": "🙀盘Se┃搜索",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_PanSearch",
             "searchable": 1,
             "filterable": 0,
@@ -1717,7 +1217,7 @@
             "key": "易搜",
             "name": "😹易搜┃搜索",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_YiSo",
             "searchable": 1,
             "filterable": 0,
@@ -1732,7 +1232,7 @@
             "key": "csp_QuPanSou",
             "name": "🤓趣盘搜┃搜索",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_QuPanSou",
             "searchable": 1,
             "filterable": 1,
@@ -1747,7 +1247,7 @@
             "key": "csp_Qkpanso",
             "name": "🐚夸克盘搜┃搜索",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Qkpanso",
             "searchable": 1,
             "filterable": 1,
@@ -1762,7 +1262,7 @@
             "key": "米搜",
             "name": "🌖米搜┃搜索",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Qkpanso",
             "searchable": 1,
             "filterable": 1,
@@ -1778,7 +1278,7 @@
             "key": "夸搜",
             "name": "🚢夸搜┃搜索",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Qkso",
             "searchable": 1,
             "filterable": 1,
@@ -1793,7 +1293,7 @@
             "key": "云盘4K",
             "name": "🤖云盘4K┃搜索",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Yunpan4k",
             "searchable": 1,
             "filterable": 0,
@@ -1809,7 +1309,7 @@
             "key": "影搜",
             "name": "🌸影搜┃搜索",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Yingso",
             "searchable": 1,
             "filterable": 0,
@@ -1825,7 +1325,7 @@
             "key": "push_agent",
             "name": "🛴手机┃推送",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Push",
             "searchable": 0,
             "filterable": 0,
@@ -1842,7 +1342,7 @@
             "key": "我的阿里",
             "name": "🐱我的┃阿里",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_MyAli",
             "searchable": 0,
             "quickSearch": 0,
@@ -1860,7 +1360,7 @@
             "key": "我的夸克",
             "name": "🗽我的┃夸克",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_MyQuark",
             "searchable": 0,
             "quickSearch": 0,
@@ -1878,7 +1378,7 @@
             "key": "我的UC",
             "name": "😼我的┃UC",
             "type": 3,
-            "jar": "http://cyh92.cn/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_MyUc",
             "searchable": 0,
             "quickSearch": 0,
@@ -1895,19 +1395,24 @@
     ],
     "lives": [
         {
-            "name": "自用",
-            "type": 0,
-            "url": "http://cyh92.cn/list.txt"
+            "name": "网页源",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0",
+            "url": "https://gitee.com/cyh92/live/raw/main/source/webtv.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
+            }
         },
         {
-            "name": "直播",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/cyh92/boxFile/refs/heads/main/live/gggg.nzk"
+            "name": "自用",
+            "url": "http://cyh92.cn/list.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png"
         },
         {
             "name": "Live",
-            "type": 0,
-            "url": "http://rihou.cc:567/gggg.nzk"
+            "url": "https://gitee.com/cyh92/StaticPage/raw/master/tv/latest.txt"
         },
         {
             "name": "owen2000wy",
@@ -1922,12 +1427,7 @@
         {
             "name": "ATV",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"
-        },
-        {
-            "name": "5+",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"
         }
     ],
     "parses": [
