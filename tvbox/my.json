@@ -10,7 +10,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }
+        },
+          {
+            "key": "csp_Hbitcr",
+            "name": "三歪影视",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 0,
+             "indexs":0,
+              "jar":"https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar"
+            "api": "csp_Hbitcr"
+        }, 
     ],
     "lives": [
         {
