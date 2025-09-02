@@ -17,10 +17,24 @@
             "type": 3,
             "searchable": 0,
             "quickSearch": 0,
-             "indexs":0,
-              "jar":"https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar"
+            "indexs":0,
+            "jar":"https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar",
             "api": "csp_Hbitcr"
         }, 
+         {
+            "key": "csp_Jable",
+            "name": "JableTV",
+            "type": 3,
+            "jar":"https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar",
+            "api": "csp_Jable"
+        },
+         {
+            "key": "csp_Eighteen",
+            "name": "18电影",
+            "type": 3,
+            "jar":"https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar",
+            "api": "csp_Eighteen"
+         }，
     ],
     "lives": [
         {
