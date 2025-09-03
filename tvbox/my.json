@@ -31,6 +31,15 @@
             "indexs": 0
         },
         {
+            "key": "csp_Mebcf",
+            "name": "永和影视",
+            "type": 3,
+            "api": "csp_Mebcf",
+            "searchable": 0,
+            "quickSearch": 0,
+            "indexs": 0
+        },
+        {
             "key": "csp_Jable",
             "name": "JableTV",
             "type": 3,
