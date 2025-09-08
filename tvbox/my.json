@@ -5,9 +5,9 @@
         {
             "key": "lb",
             "name": "乐播",
-            "api": "https://lbapi9.com/api.php/provide/vod/",
+            "api": "https://lbapi9.com/api.php/provide/vod/from/lbm3u8",
             "type": 1,
-            "playUrl": "",
+            "playUrl": "https://slslplay.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -15,13 +15,77 @@
          {
             "key": "slapibf",
             "name": "森林资源",
-            "api": "http://slapibf.com/api.php/provide/vod",
+            "api": "https://slapibf.com/api.php/provide/vod/from/slm3u8",
+            "type": 1,
+            "playUrl": "https://slslplay.com/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         {
+            "key": "xiaojizy",
+            "name": "小鸡资源",
+            "api": "https://api.xiaojizy.live/provide/vod",
             "type": 1,
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
+        }, 
+                   
+         {
+            "key": "hsckzy888",
+            "name": "黄仓资源",
+            "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8",
+            "type": 1,
+            "playUrl": "https://jx.bfhsck.com/m3u8/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },               
+         {
+            "key": "91jpzyw",
+            "name": "91精品资源",
+            "api": "https://91jpzyw.com/api.php/provide/vod/from/91jpzyw",
+            "type": 1,
+            "playUrl": "https://91jpplayer.top/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },       
+
+         {
+            "key": "xgbbk8",
+            "name": "杏吧资源",
+            "api": "https://xingba222.com/api.php/provide/vod/from/s8m3u8",
+            "type": 1,
+            "playUrl": "https://xbww888.com/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },     
+          
+         {
+            "key": "apidanaizi",
+            "name": "大奶影视",
+            "api": "https://apidanaizi.com/api.php/provide/vod/from/dnzm3u8",
+            "type": 1,
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },    
+                        
+         {
+            "key": "xxibaozyw",
+            "name": "细胞资源",
+            "api": "https://www.xxibaozyw.com/api.php/provide/vod/from/xxbm3u8",
+            "type": 1,
+            "playUrl": "https://xxb-player.com/player.php/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },         
         {
             "key": "csp_Hbitcr",
             "name": "三歪影视",
