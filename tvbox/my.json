@@ -32,17 +32,6 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
-            
-         {
-            "key": "dadiapi",
-            "name": "大地资源",
-            "api": "https://dadiapi.com/api.php/provide/vod",
-            "type": 1,
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },        
          {
             "key": "hsckzy888",
             "name": "黄仓资源",
@@ -95,7 +84,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },         
+        },              
+         {
+            "key": "dadiapi",
+            "name": "大地资源",
+            "api": "https://dadiapi.com/api.php/provide/vod",
+            "type": 0,
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },               
          {
             "key": "污污资源",
             "name": "污污资源",
@@ -118,7 +117,7 @@
             "key": "美少女资源",
             "name": "美少女资源",
             "type": 0,
-            "api": "https://www.msnii.com/api/json.php",
+            "api": "https://www.msnii.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -127,7 +126,7 @@
             "key": "饮水机资源",
             "name": "饮水机资源",
             "type": 0,
-            "api": "https://www.xrbsp.com/api/json.php",
+            "api": "https://www.xrbsp.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -222,6 +221,11 @@
             "name": "18+4",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/cyh92/boxFile/refs/heads/main/live/fl.txt"
+        },
+        {
+            "name": "18+5",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/cyh92/boxFile/refs/heads/main/live/ipav.txt"
         }
     ],
     "parses": [
