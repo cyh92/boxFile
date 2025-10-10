@@ -15,7 +15,7 @@
          {
             "key": "slapibf",
             "name": "森林资源",
-            "api": "https://slapibf.com/api.php/provide/vod/from/slm3u8",
+            "api": "https://slapibf.com/api.php/provide/vod",
             "type": 1,
             "playUrl": "https://slslplay.com/?url=",
             "searchable": 1,
