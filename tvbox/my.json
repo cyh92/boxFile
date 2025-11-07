@@ -255,15 +255,6 @@
             "filterable": 1
         },
         {
-            "key": "maozyapi",
-            "name": "AV-色猫资源",
-            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "gdlsp",
             "name": "AV-香奶儿资源",
             "api": "https://www.gdlsp.com/api/json.php",
