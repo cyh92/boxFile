@@ -12,7 +12,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
+        {
             "key": "slapibf",
             "name": "森林资源",
             "api": "https://slapibf.com/api.php/provide/vod",
@@ -22,7 +22,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
+        {
             "key": "xiaojizy",
             "name": "小鸡资源",
             "api": "https://api.xiaojizy.live/provide/vod",
@@ -31,8 +31,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }, 
-         {
+        },
+        {
             "key": "hsckzy888",
             "name": "黄仓资源",
             "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8",
@@ -41,8 +41,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },               
-         {
+        },
+        {
             "key": "91jpzyw",
             "name": "91精品资源",
             "api": "https://91jpzyw.com/api.php/provide/vod/from/91jpzyw",
@@ -51,9 +51,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },       
-
-         {
+        },
+        {
             "key": "xgbbk8",
             "name": "杏吧资源",
             "api": "https://xingba222.com/api.php/provide/vod",
@@ -62,9 +61,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },     
-          
-         {
+        },
+        {
             "key": "apidanaizi",
             "name": "大奶影视",
             "api": "https://apidanaizi.com/api.php/provide/vod/from/dnzm3u8",
@@ -73,9 +71,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },    
-                        
-         {
+        },
+        {
             "key": "xxibaozyw",
             "name": "细胞资源",
             "api": "https://www.xxibaozyw.com/api.php/provide/vod/from/xxbm3u8",
@@ -84,8 +81,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },              
-         {
+        },
+        {
             "key": "dadiapi",
             "name": "大地资源",
             "api": "https://dadiapi.com/api.php/provide/vod",
@@ -94,8 +91,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },               
-         {
+        },
+        {
             "key": "污污资源",
             "name": "污污资源",
             "type": 0,
@@ -104,7 +101,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
+        {
             "key": "奶香香资源",
             "name": "奶香香资源",
             "type": 0,
@@ -112,7 +109,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },        
+        },
         {
             "key": "美少女资源",
             "name": "美少女资源",
@@ -159,6 +156,132 @@
             "filterable": 1
         },
         {
+            "key": "jkunzyapi",
+            "name": "AV-JKUN资源",
+            "api": "https://jkunzyapi.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "souavzy",
+            "name": "AV-souav资源",
+            "api": "https://api.souavzy.vip/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "aosikazy",
+            "name": "AV-奥斯卡资源",
+            "api": "https://aosikazy.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "naixxzy",
+            "name": "AV-奶香香",
+            "api": "https://Naixxzy.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "xrbsp",
+            "name": "AV-淫水机资源",
+            "api": "https://www.xrbsp.com/api/json.php",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "apiyutu",
+            "name": "AV-玉兔资源",
+            "api": "https://apiyutu.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "fhapi9",
+            "name": "AV-番号资源",
+            "api": "http://fhapi9.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "kxgav",
+            "name": "AV-白嫖资源",
+            "api": "https://www.kxgav.com/api/json.php",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "msnii",
+            "name": "AV-美少女资源",
+            "api": "https://www.msnii.com/api/json.php",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "apilsbzy1",
+            "name": "AV-老色逼资源",
+            "api": "https://apilsbzy1.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "sexnguon",
+            "name": "AV-色嗨国",
+            "api": "https://api.sexnguon.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "maozyapi",
+            "name": "AV-色猫资源",
+            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "gdlsp",
+            "name": "AV-香奶儿资源",
+            "api": "https://www.gdlsp.com/api/json.php",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "pgxdy",
+            "name": "AV-黄AV资源",
+            "api": "https://www.pgxdy.com/api/json.php",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Hbitcr",
             "name": "三歪影视",
             "type": 3,
@@ -166,7 +289,7 @@
             "quickSearch": 0,
             "indexs": 0,
             "api": "csp_Hbitcr",
-            "ext":"http://hbnach.click/"
+            "ext": "http://hbnach.click/"
         },
         {
             "key": "csp_Wqacr",
@@ -176,7 +299,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "indexs": 0,
-            "ext":"http://zgbch.click/"
+            "ext": "http://zgbch.click/"
         },
         {
             "key": "csp_Mebcf",
@@ -186,7 +309,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "indexs": 0,
-            "ext":"http://nrbcc.click/"
+            "ext": "http://nrbcc.click/"
         },
         {
             "key": "csp_Jable",
@@ -199,7 +322,7 @@
             "name": "18电影",
             "type": 3,
             "api": "csp_Eighteen"
-        },               
+        },
         {
             "key": "Xplus1",
             "name": "⭐️稀饭Plus",
@@ -210,54 +333,54 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                    "作者": "小可乐/2409/第一版",
-                    "站名": "稀饭短剧",
-                    "请求头": "User-Agent$MOBILE_UA",
-                    "编码": "UTF-8",
-                    "图片代理": "0",
-                    "主页url": "https://app.4kwo.com/api.php/provide/home_data?id=97",
-                    "首页": "120",
-                    "起始页": "1",
-                    "分类url": "/api.php/provide/vod_list?id={cateId}&page={catePg};;mrcd0",
-                    "分类": "精品$97#国产视频$98#主播直播$99#日本无码$100#日本有码$101#中文字幕$102#巨乳美乳$103#熟女人妻$104#强奸乱伦$105#欧美精品$106#少女萝莉$107#成人动漫$108#自拍偷拍$109#传媒出品$110#网暴门$111#三级伦理$112#男同女同$113#视频写真$114#国产探花$115#SM调教$116#AI明星$117#制服丝袜$118#角色扮演$119#福利$8#XXX$122",
-                    "分类值": "*",
-                    "二次截取": "默认--空||首页--hotvideo&&msg\":\\[",
-                    "数组": "{&&}",
-                    "标题": "name\":\"&&\"",
-                    "图片": "img\":\"&&\"",
-                    "副标题": "qingxidu\":\"&&\"",
-                    "链接": "/api.php/provide/vod_detail?ac=vod_detail&id=+id\":&&,",
-                    "影片年代": "msg\":\"&&\"",
-                    "影片地区": "vod_area\":\"&&\"",
-                    "影片类型": "type\":\"&&\"",
-                    "状态": "remarks\":\"&&\"",
-                    "导演": "director\":\"&&\"",
-                    "主演": "actor\":\"&&\"",
-                    "简介": "\"info\":\"&&\"",
-                    "线路数组": "show\":&&,",
-                    "线路标题": "👶+\"&&\"",
-                    "播放二次截取": "playlist\":&&,[替换:$$$>>接表组组表题#\">>接表组表题#$>>题接#\\#>>接表表题]",
-                    "播放数组": "组&&组",
-                    "播放列表": "表&&表",
-                    "播放标题": "题&&题",
-                    "播放链接": "接&&接",
-                    "直接播放": "0",
-                    "嗅探词": ".mp4#.m3u8",
-                    "搜索请求头": "User-Agent$MOBILE_UA",
-                    "搜索url": "/api.php/provide/search_result?video_name={wd}",
-                    "搜索模式": "1",
-                    "搜索二次截取": "search_result\":\\[&&\\]",
-                    "搜索数组": "{&&}",
-                    "搜索标题": "video_name\":\"&&\"",
-                    "搜索图片": "img\":\"&&\"",
-                    "搜索副标题": "\"\":\"&&\"",
-                    "搜索链接": "/api.php/provide/vod_detail?ac=vod_detail&id=+id\":&&,",
-                    "筛选": "1",
-                    "年份": "2021-2024",
-                    "年份值": "*",
-                    "排序": "为你推荐&最新&评分&最热",
-                    "排序值": "空&new&score&hits"
-                    }
+                "作者": "小可乐/2409/第一版",
+                "站名": "稀饭短剧",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "图片代理": "0",
+                "主页url": "https://app.4kwo.com/api.php/provide/home_data?id=97",
+                "首页": "120",
+                "起始页": "1",
+                "分类url": "/api.php/provide/vod_list?id={cateId}&page={catePg};;mrcd0",
+                "分类": "精品$97#国产视频$98#主播直播$99#日本无码$100#日本有码$101#中文字幕$102#巨乳美乳$103#熟女人妻$104#强奸乱伦$105#欧美精品$106#少女萝莉$107#成人动漫$108#自拍偷拍$109#传媒出品$110#网暴门$111#三级伦理$112#男同女同$113#视频写真$114#国产探花$115#SM调教$116#AI明星$117#制服丝袜$118#角色扮演$119#福利$8#XXX$122",
+                "分类值": "*",
+                "二次截取": "默认--空||首页--hotvideo&&msg\":\\[",
+                "数组": "{&&}",
+                "标题": "name\":\"&&\"",
+                "图片": "img\":\"&&\"",
+                "副标题": "qingxidu\":\"&&\"",
+                "链接": "/api.php/provide/vod_detail?ac=vod_detail&id=+id\":&&,",
+                "影片年代": "msg\":\"&&\"",
+                "影片地区": "vod_area\":\"&&\"",
+                "影片类型": "type\":\"&&\"",
+                "状态": "remarks\":\"&&\"",
+                "导演": "director\":\"&&\"",
+                "主演": "actor\":\"&&\"",
+                "简介": "\"info\":\"&&\"",
+                "线路数组": "show\":&&,",
+                "线路标题": "👶+\"&&\"",
+                "播放二次截取": "playlist\":&&,[替换:$$$>>接表组组表题#\">>接表组表题#$>>题接#\\#>>接表表题]",
+                "播放数组": "组&&组",
+                "播放列表": "表&&表",
+                "播放标题": "题&&题",
+                "播放链接": "接&&接",
+                "直接播放": "0",
+                "嗅探词": ".mp4#.m3u8",
+                "搜索请求头": "User-Agent$MOBILE_UA",
+                "搜索url": "/api.php/provide/search_result?video_name={wd}",
+                "搜索模式": "1",
+                "搜索二次截取": "search_result\":\\[&&\\]",
+                "搜索数组": "{&&}",
+                "搜索标题": "video_name\":\"&&\"",
+                "搜索图片": "img\":\"&&\"",
+                "搜索副标题": "\"\":\"&&\"",
+                "搜索链接": "/api.php/provide/vod_detail?ac=vod_detail&id=+id\":&&,",
+                "筛选": "1",
+                "年份": "2021-2024",
+                "年份值": "*",
+                "排序": "为你推荐&最新&评分&最热",
+                "排序值": "空&new&score&hits"
+            }
         }
     ],
     "lives": [
