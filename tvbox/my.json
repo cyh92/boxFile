@@ -273,50 +273,75 @@
             "filterable": 1
         },
         {
-    "key": "paaw",
-    "name": "香蕉资源网采集接口",
-    "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
-    "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
-  {
-    "key": "gv9w",
-    "name": "幸资源站采集接口",
-    "api": "https://xzybb1.com/api.php/provide/vod",
-    "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
-  {
-    "key": "sbb6",
-    "name": "杏资源站影视采集站采集接口",
-    "api": "https://xzybb1.com/api.php/provide/vod",
-    "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
-  {
-    "key": "rug5",
-    "name": "丝袜资源采集网采集接口",
-    "api": "https://siwazyw.tv/api.php/provide/vod",
-    "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
-  {
-    "key": "1bq9",
-    "name": "爱坤联盟资源网采集接口",
-    "api": "https://www.jkunzyapi.com/api.php/provide/vod",
-    "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
+            "key": "paaw",
+            "name": "香蕉资源网采集接口",
+            "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "gv9w",
+            "name": "幸资源站采集接口",
+            "api": "https://xzybb1.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "sbb6",
+            "name": "杏资源站影视采集站采集接口",
+            "api": "https://xzybb1.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "rug5",
+            "name": "丝袜资源采集网采集接口",
+            "api": "https://siwazyw.tv/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "草",
+            "name": "草",
+            "api": "https://ios.bxguwen.com/vod/listing-0-0-0-0-0-0-2-0-0-1",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "*91麻豆",
+            "name": "*91麻豆",
+            "api": "https://md91.cc/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "name": "滴滴资源",
+            "api": "https://api.ddapi.cc/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "name": "映迷",
+            "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "csp_Hbitcr",
             "name": "三歪影视",
