@@ -2,7 +2,7 @@
     "spider": "https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "sites": [
-        {
+         {
             "key": "lb",
             "name": "乐播",
             "api": "https://lbapi9.com/api.php/provide/vod/from/lbm3u8",
@@ -43,16 +43,6 @@
             "filterable": 1
         },
         {
-            "key": "91jpzyw",
-            "name": "91精品资源",
-            "api": "https://91jpzyw.com/api.php/provide/vod/from/91jpzyw",
-            "type": 1,
-            "playUrl": "https://91jpplayer.top/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "xgbbk8",
             "name": "杏吧资源",
             "api": "https://xingba222.com/api.php/provide/vod",
@@ -68,16 +58,6 @@
             "api": "https://apidanaizi.com/api.php/provide/vod/from/dnzm3u8",
             "type": 1,
             "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "xxibaozyw",
-            "name": "细胞资源",
-            "api": "https://www.xxibaozyw.com/api.php/provide/vod/from/xxbm3u8",
-            "type": 1,
-            "playUrl": "https://xxb-player.com/player.php/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -165,24 +145,6 @@
             "filterable": 1
         },
         {
-            "key": "souavzy",
-            "name": "AV-souav资源",
-            "api": "https://api.souavzy.vip/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "aosikazy",
-            "name": "AV-奥斯卡资源",
-            "api": "https://aosikazy.com/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "apiyutu",
             "name": "AV-玉兔资源",
             "api": "https://apiyutu.com/api.php/provide/vod",
@@ -204,15 +166,6 @@
             "key": "apilsbzy1",
             "name": "AV-老色逼资源",
             "api": "https://apilsbzy1.com/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "sexnguon",
-            "name": "AV-色嗨国",
-            "api": "https://api.sexnguon.com/api.php/provide/vod",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -246,36 +199,9 @@
             "filterable": 1
         },
         {
-            "key": "paaw",
-            "name": "香蕉资源",
-            "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "gv9w",
             "name": "幸资源站",
             "api": "https://xzybb1.com/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "rug5",
-            "name": "丝袜资源",
-            "api": "https://siwazyw.tv/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "草",
-            "name": "草",
-            "api": "https://ios.bxguwen.com/vod/listing-0-0-0-0-0-0-2-0-0-1",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -301,7 +227,7 @@
         {
             "name": "映迷",
             "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
-            "type": 1,
+            "type": 0,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
