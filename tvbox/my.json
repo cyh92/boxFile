@@ -5,7 +5,7 @@
          {
             "key": "lb",
             "name": "乐播",
-            "api": "https://lbapi9.com/api.php/provide/vod/from/lbm3u8",
+            "api": "https://lbapi9.com/api.php/provide/vod",
             "type": 1,
             "playUrl": "https://slslplay.com/?url=",
             "searchable": 1,
@@ -35,7 +35,7 @@
         {
             "key": "hsckzy888",
             "name": "黄仓资源",
-            "api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8",
+            "api": "https://hsckzy888.com/api.php/provide/vod",
             "type": 1,
             "playUrl": "https://jx.bfhsck.com/m3u8/?url=",
             "searchable": 1,
@@ -55,7 +55,7 @@
         {
             "key": "apidanaizi",
             "name": "大奶影视",
-            "api": "https://apidanaizi.com/api.php/provide/vod/from/dnzm3u8",
+            "api": "https://apidanaizi.com/api.php/provide/vod",
             "type": 1,
             "playUrl": "",
             "searchable": 1,
