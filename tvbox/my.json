@@ -183,24 +183,6 @@
             "filterable": 1
         },
         {
-            "key": "naixxzy",
-            "name": "AV-奶香香",
-            "api": "https://Naixxzy.com/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "xrbsp",
-            "name": "AV-淫水机资源",
-            "api": "https://www.xrbsp.com/api/json.php",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "apiyutu",
             "name": "AV-玉兔资源",
             "api": "https://apiyutu.com/api.php/provide/vod",
@@ -213,24 +195,6 @@
             "key": "fhapi9",
             "name": "AV-番号资源",
             "api": "http://fhapi9.com/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "kxgav",
-            "name": "AV-白嫖资源",
-            "api": "https://www.kxgav.com/api/json.php",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "msnii",
-            "name": "AV-美少女资源",
-            "api": "https://www.msnii.com/api/json.php",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -254,24 +218,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "gdlsp",
-            "name": "AV-香奶儿资源",
-            "api": "https://www.gdlsp.com/api/json.php",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "pgxdy",
-            "name": "AV-黄AV资源",
-            "api": "https://www.pgxdy.com/api/json.php",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },        
         {
             "key": "bwzyz",
             "name": "AV-百万资源",
@@ -301,7 +247,7 @@
         },
         {
             "key": "paaw",
-            "name": "香蕉资源网采集接口",
+            "name": "香蕉资源",
             "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
             "type": 1,
             "searchable": 1,
@@ -310,16 +256,7 @@
         },
         {
             "key": "gv9w",
-            "name": "幸资源站采集接口",
-            "api": "https://xzybb1.com/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "sbb6",
-            "name": "杏资源站影视采集站采集接口",
+            "name": "幸资源站",
             "api": "https://xzybb1.com/api.php/provide/vod",
             "type": 1,
             "searchable": 1,
@@ -328,7 +265,7 @@
         },
         {
             "key": "rug5",
-            "name": "丝袜资源采集网采集接口",
+            "name": "丝袜资源",
             "api": "https://siwazyw.tv/api.php/provide/vod",
             "type": 1,
             "searchable": 1,
@@ -368,36 +305,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Hbitcr",
-            "name": "三歪影视",
-            "type": 3,
-            "searchable": 0,
-            "quickSearch": 0,
-            "indexs": 0,
-            "api": "csp_Hbitcr",
-            "ext": "http://hbnach.click/"
-        },
-        {
-            "key": "csp_Wqacr",
-            "name": "三浪影视",
-            "type": 3,
-            "api": "csp_Wqacr",
-            "searchable": 0,
-            "quickSearch": 0,
-            "indexs": 0,
-            "ext": "http://zgbch.click/"
-        },
-        {
-            "key": "csp_Mebcf",
-            "name": "永和影视",
-            "type": 3,
-            "api": "csp_Mebcf",
-            "searchable": 0,
-            "quickSearch": 0,
-            "indexs": 0,
-            "ext": "http://nrbcc.click/"
         },
         {
             "key": "csp_Jable",
