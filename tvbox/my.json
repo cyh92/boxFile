@@ -217,6 +217,7 @@
             "filterable": 1
         },
         {
+            "key":"ddapi",
             "name": "滴滴资源",
             "api": "https://api.ddapi.cc/api.php/provide/vod",
             "type": 1,
@@ -225,7 +226,8 @@
             "filterable": 1
         },
         {
-            "name": "映迷",
+            "key":"inmi",
+            "name": "影迷",
             "api": "https://www.inmi.app/api.php/provide/vod",
             "type": 1,
             "searchable": 1,
