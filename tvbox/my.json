@@ -23,16 +23,6 @@
             "filterable": 1
         },
         {
-            "key": "xiaojizy",
-            "name": "小鸡资源",
-            "api": "https://api.xiaojizy.live/provide/vod",
-            "type": 1,
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "hsckzy888",
             "name": "黄仓资源",
             "api": "https://hsckzy888.com/api.php/provide/vod",
@@ -199,15 +189,6 @@
             "filterable": 1
         },
         {
-            "key": "gv9w",
-            "name": "幸资源站",
-            "api": "https://xzybb1.com/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "*91麻豆",
             "name": "*91麻豆",
             "api": "https://md91.cc/api.php/provide/vod",
@@ -226,31 +207,10 @@
             "filterable": 1
         },
         {
-            "key":"inmi",
-            "name": "影迷",
-            "api": "https://www.inmi.app/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Jable",
-            "name": "JableTV",
-            "type": 3,
-            "api": "csp_Jable"
-        },
-        {
-            "key": "csp_Eighteen",
-            "name": "18电影",
-            "type": 3,
-            "api": "csp_Eighteen"
-        },
-        {
             "key": "Xplus1",
             "name": "⭐️稀饭Plus",
             "type": 3,
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "jar": "https://cnb.cool/my_team/live/-/git/raw/main/jar/duanju.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
